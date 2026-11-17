@@ -1,5 +1,7 @@
 ### Привет! Я Ольга 👋
 
+<img src="photo.jpg" width="200" align="right" alt="Ольга Зотова" />
+
 QA-инженер: ручное тестирование и базовая автоматизация на Java и JavaScript.
 В IT пришла осознанно — 20 лет в управлении операционными процессами, поэтому
 хорошо понимаю бизнес-процессы и умею находить логические ошибки в продукте.
@@ -9,19 +11,21 @@ QA-инженер: ручное тестирование и базовая ав�
 
 ### Проекты
 
-- [Тестирование Android-приложения (Espresso)](https://github.com/OlgaZotova-iong/DIPLOM) — полный цикл: чек-лист, тест-кейсы, автотесты UI
-- [API-тестирование банка (RestAssured, CI)](https://github.com/OlgaZotova-iong/MobilebankApi) — валидация контрактов, GitHub Actions
-- [Банковское веб-приложение (Selenide, Docker)](https://github.com/OlgaZotova-iong/BankLogin) — интеграция с БД, Page Object
-- [E2E бронирования билетов (Cypress)](https://github.com/OlgaZotova-iong/Cypress-Cinema) — фикстуры, cy.intercept
+- [Тестирование Android-приложения (Espresso)](https://github.com/OlgaZotova-iong/android-espresso-tests) — полный цикл: чек-лист, тест-кейсы, автотесты UI
+- [API-тестирование банка (RestAssured, CI)](https://github.com/OlgaZotova-iong/bank-api-tests) — валидация контрактов, GitHub Actions
+- [Банковское веб-приложение (Selenide, Docker)](https://github.com/OlgaZotova-iong/bank-web-selenide-tests) — интеграция с БД, Page Object
+- [E2E бронирования билетов (Cypress)](https://github.com/OlgaZotova-iong/cinema-e2e-cypress) — фикстуры, cy.intercept
 
 ### Образование и сертификаты
 
-- Инженер по тестированию ПО, Нетология, 2026 (https://drive.google.com/file/d/1S97khOOA-FAjbToWTXHN1IvGWUx-qPGk/view?usp=sharing)
-  
+- Инженер по тестированию ПО, Нетология, 2026 — [диплом](https://drive.google.com/file/d/1S97khOOA-FAjbToWTXHN1IvGWUx-qPGk/view?usp=sharing)
+
 ### Контакты
 
 - Email: olgazotova1976@yandex.ru
 - GitHub: [OlgaZotova-iong](https://github.com/OlgaZotova-iong)
+- Портфолио: [olgazotova-iong.github.io](https://olgazotova-iong.github.io)
 
-<img src="photo.jpg" width="150" align="right" alt="Ольга Зотова" />
+<br clear="right" />
+
 
