@@ -5,7 +5,7 @@ QA-инженер: ручное тестирование и базовая ав�
 хорошо понимаю бизнес-процессы и умею находить логические ошибки в продукте.
 Ищу удалённую позицию junior QA.
 
-**Навыки:** Java, JUnit 5, RestAssured, Selenide, Espresso, Cypress, SQL, Postman, Git, Docker, GitHub Actions
+**Навыки:** Java, JavaScript, JUnit 5, RestAssured, Selenide, Espresso, Cypress, SQL, Postman, Git, Docker, GitHub Actions
 
 ### Проекты
 
