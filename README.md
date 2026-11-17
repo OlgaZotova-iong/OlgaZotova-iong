@@ -22,3 +22,6 @@ QA-инженер: ручное тестирование и базовая ав�
 
 - Email: olgazotova1976@yandex.ru
 - GitHub: [OlgaZotova-iong](https://github.com/OlgaZotova-iong)
+
+<img src="photo.jpg" width="150" align="right" alt="Ольга Зотова" />
+
