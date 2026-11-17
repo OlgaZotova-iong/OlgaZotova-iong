@@ -16,8 +16,8 @@ QA-инженер: ручное тестирование и базовая ав�
 
 ### Образование и сертификаты
 
-- Инженер по тестированию ПО, Нетология, 2026
-
+- Инженер по тестированию ПО, Нетология, 2026 (https://drive.google.com/file/d/1S97khOOA-FAjbToWTXHN1IvGWUx-qPGk/view?usp=sharing)
+  
 ### Контакты
 
 - Email: olgazotova1976@yandex.ru
